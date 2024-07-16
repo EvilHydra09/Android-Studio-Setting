@@ -1,0 +1,1054 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="CountryApp" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="ajzhdhwae4ce" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/presentation/HomeScreen/HomeScreenViewModel.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="1166">
+                <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/presentation/HomeScreen/HomeScreen.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="195">
+                <caret line="56" column="61" selection-start-line="56" selection-start-column="61" selection-end-line="56" selection-end-column="61" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle.kts">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="2486">
+              <caret line="113" column="62" selection-start-line="113" selection-start-column="62" selection-end-line="113" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle/libs.versions.toml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="748">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/ui/theme/Theme.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="5654">
+                <caret line="257" column="33" selection-start-line="257" selection-start-column="33" selection-end-line="257" selection-end-column="33" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/ui/theme/Type.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state />
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/ui/theme/Color.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state />
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/presentation/HomeScreen/components/TopAppBar.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="1100">
+                <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material3/material3-android/1.2.1/a269bcec123bcf8567c612a65f19cc47d9ab2b49/material3-android-1.2.1-sources.jar!/commonMain/androidx/compose/material3/AppBar.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state>
+              <editor-state relative-caret-position="2970">
+                <caret line="135" column="40" selection-start-line="135" selection-start-column="40" selection-end-line="135" selection-end-column="40" />
+              </editor-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "TOML": {
+      "usageCount": 3,
+      "lastUsed": 1721121893976
+    },
+    "Kotlin": {
+      "usageCount": 79,
+      "lastUsed": 1721121894790
+    },
+    "XML": {
+      "usageCount": 3,
+      "lastUsed": 1721103433821
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/gradle/libs.versions.toml" />
+      <option value="$PROJECT_DIR$/build.gradle.kts" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/countryapp/data/remote/NoteApiService.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/countryapp/domain/model/Note.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/countryapp/domain/respository/NoteRespository.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/countryapp/common/Utils.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/countryapp/data/repository/NoteRepositoryImpl.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/countryapp/domain/use_case/GetNoteListUseCase.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/countryapp/domain/use_case/CreateNoteUseCase.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/countryapp/domain/di/DomainModule.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/countryapp/BaseApplication.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/countryapp/common/Resource.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/countryapp/data/di/DataModule.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/countryapp/presentation/HomeScreen/components/ImageAvatar.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/countryapp/presentation/HomeScreen/components/HomeSection.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/countryapp/presentation/HomeScreen/NoteState.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/countryapp/ui/theme/Type.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/countryapp/ui/theme/Color.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/countryapp/MainActivity.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/countryapp/ui/theme/Theme.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/countryapp/presentation/HomeScreen/components/TopAppBar.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/countryapp/presentation/HomeScreen/HomeScreenViewModel.kt" />
+      <option value="$PROJECT_DIR$/app/build.gradle.kts" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/countryapp/presentation/HomeScreen/HomeScreen.kt" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="TOML">
+      <summary usageCount="3" lastUsage="1721121893976" />
+    </language>
+    <language id="XML">
+      <summary usageCount="3" lastUsage="1721103433821" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="79" lastUsage="1721121894790" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CountryApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CountryApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="CountryApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+            </path>
+            <path>
+              <item name="CountryApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="CountryApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CountryApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CountryApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example/countryapp}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CountryApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example/countryapp}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example/countryapp/common}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CountryApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example/countryapp}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example/countryapp/data}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CountryApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example/countryapp}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example/countryapp/data}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example/countryapp/data/di}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CountryApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example/countryapp}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example/countryapp/domain}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CountryApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example/countryapp}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example/countryapp/presentation}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CountryApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example/countryapp}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example/countryapp/presentation}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example/countryapp/presentation/HomeScreen}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CountryApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example/countryapp}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example/countryapp/presentation}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example/countryapp/presentation/HomeScreen}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example/countryapp/presentation/HomeScreen/components}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CountryApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example/countryapp}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example/countryapp/ui}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CountryApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example/countryapp}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example/countryapp/ui}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/abhid/AndroidStudioProjects/CountryApp/app/src/main/java/com/example/countryapp/ui/theme}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CountryApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="CountryApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="drawable" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="CountryApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Android App.app" />
+    </history>
+  </component>
+  <component name="SplittingTabsState">
+    <tool-windows>
+      <tool-window id="Logcat" selected-tab="0">
+        <tabs>
+          <tab name="com.example.countryapp (Pixel_7a_API_35)">
+            <content>
+              <panel>{'device':{'deviceId':'Pixel_7a_API_35','name':'Pixel 7a API 35','serialNumber':'emulator-5554','isOnline':false,'release':'15','sdk':35,'featureLevel':35,'model':'','type':'HANDHELD','isEmulator':true},'formattingConfig':{'preset':'STANDARD'},'filter':'package:com.example.countryapp ','filterMatchCase':false,'isSoftWrap':false}</panel>
+            </content>
+          </tab>
+        </tabs>
+      </tool-window>
+    </tool-windows>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23828125" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" weight="0.33028847" />
+      <window_info anchor="bottom" id="Logcat" order="4" weight="0.33028847" />
+      <window_info anchor="bottom" id="App Quality Insights" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" show_stripe_button="false" weight="0.33028847" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" visible="true" weight="0.33028847" />
+      <window_info anchor="bottom" id="Find" order="8" show_stripe_button="false" weight="0.33028847" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.25" />
+      <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device Manager 2" order="3" weight="0.25" />
+      <window_info anchor="right" id="Running Devices" order="4" visible="true" weight="0.20026042" />
+      <window_info anchor="right" id="StudioBot" order="5" weight="0.32975262" />
+      <window_info anchor="right" id="Key Promoter X" order="6" />
+      <unified_weights bottom="0.33028847" left="0.23828125" right="0.20026042" />
+    </layoutV2>
+    <recentWindows>
+      <value>Build</value>
+      <value>Running Devices</value>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Problems View</value>
+      <value>Logcat</value>
+      <value>Find</value>
+      <value>StudioBot</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1721048891846">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1721048891846" />
+    <state x="740" y="267" key="FileChooserDialogImpl" timestamp="1721111016056">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="267" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1721111016056" />
+    <state width="1838" height="301" key="GridCell.Tab.0.bottom" timestamp="1721121810299">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1838" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1721121810299" />
+    <state width="1838" height="301" key="GridCell.Tab.0.center" timestamp="1721121810298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1838" height="301" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1721121810298" />
+    <state width="1838" height="301" key="GridCell.Tab.0.left" timestamp="1721121810298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1838" height="301" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1721121810298" />
+    <state width="1838" height="301" key="GridCell.Tab.0.right" timestamp="1721121810298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1838" height="301" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1721121810298" />
+    <state x="461" y="149" key="SettingsEditor" timestamp="1721103931034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="149" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1721103931034" />
+    <state x="734" y="183" key="conflicts.dialog" timestamp="1721106173357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="734" y="183" key="conflicts.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1721106173357" />
+    <state x="616" y="234" key="run.anything.popup" timestamp="1721064425745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="234" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1721064425745" />
+    <state x="539" y="160" width="680" height="713" key="search.everywhere.popup" timestamp="1721103877516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="431" y="127" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1721048979000" />
+    <state x="539" y="160" width="680" height="713" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1721103877516" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/data/model/NoteDTO.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="44">
+            <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/data/model/NoteDTOItem.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="132">
+            <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/domain/model/Note.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="110">
+            <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/domain/respository/NoteRepository.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="154">
+            <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/data/remote/NoteApiService.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="308">
+            <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/data/repository/NoteRepositoryImpl.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="528">
+            <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/domain/use_case/GetNoteListUseCase.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="374">
+            <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/domain/use_case/CreateNoteUseCase.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="176">
+            <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/common/Utils.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="396">
+            <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/domain/di/DomainModule.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="462">
+            <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/BaseApplication.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="154">
+            <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.foundation/foundation-android/1.6.8/3689a919e5a57ced15b961efab7a333bcdc3a51c/foundation-android-1.6.8-sources.jar!/commonMain/androidx/compose/foundation/lazy/staggeredgrid/LazyStaggeredGridDsl.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="297">
+            <caret line="62" column="18" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/presentation/HomeScreen/components/HomeSection.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="352">
+            <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/presentation/HomeScreen/components/ImageAvatar.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="264">
+            <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/common/Resource.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="44">
+            <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/data/di/DataModule.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="660">
+            <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material3/material3-android/1.2.1/a269bcec123bcf8567c612a65f19cc47d9ab2b49/material3-android-1.2.1-sources.jar!/commonMain/androidx/compose/material3/TextField.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="561">
+            <caret line="168" column="4" selection-start-line="168" selection-start-column="4" selection-end-line="168" selection-end-column="4" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/MainActivity.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="704">
+            <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.foundation/foundation-android/1.6.8/3689a919e5a57ced15b961efab7a333bcdc3a51c/foundation-android-1.6.8-sources.jar!/commonMain/androidx/compose/foundation/lazy/staggeredgrid/LazyStaggeredGridCells.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="297">
+            <caret line="54" column="10" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.animation/animation-android/1.6.8/22e0eb3f955b01f383e6f7cda43646b887cc0f37/animation-android-1.6.8-sources.jar!/commonMain/androidx/compose/animation/AnimatedVisibility.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="297">
+            <caret line="125" column="4" selection-start-line="125" selection-start-column="4" selection-end-line="125" selection-end-column="4" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/presentation/HomeScreen/NoteState.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="88">
+            <caret line="4" selection-start-line="4" selection-end-line="4" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/presentation/HomeScreen/HomeScreenViewModel.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="1166">
+            <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2486">
+          <caret line="113" column="62" selection-start-line="113" selection-start-column="62" selection-end-line="113" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/libs.versions.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/ui/theme/Theme.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="5654">
+            <caret line="257" column="33" selection-start-line="257" selection-start-column="33" selection-end-line="257" selection-end-column="33" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/ui/theme/Type.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state />
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/ui/theme/Color.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state />
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/presentation/HomeScreen/components/TopAppBar.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="1100">
+            <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material3/material3-android/1.2.1/a269bcec123bcf8567c612a65f19cc47d9ab2b49/material3-android-1.2.1-sources.jar!/commonMain/androidx/compose/material3/AppBar.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="2970">
+            <caret line="135" column="40" selection-start-line="135" selection-start-column="40" selection-end-line="135" selection-end-column="40" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/countryapp/presentation/HomeScreen/HomeScreen.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="195">
+            <caret line="56" column="61" selection-start-line="56" selection-start-column="61" selection-end-line="56" selection-end-column="61" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

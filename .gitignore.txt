@@ -1,0 +1,17 @@
+# Ignore all files
+*
+
+# Un-ignore specific files and directories
+!fileTemplates/
+!codestyles/
+!keymaps/
+!colors/
+!inspection/
+!.idea/
+
+# Ignore specific files within the directories
+fileTemplates/*.xml
+codestyles/*.xml
+keymaps/*.xml
+colors/*.icls
+inspection/*.xml

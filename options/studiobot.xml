@@ -1,0 +1,55 @@
+<application>
+  <component name="StudioBotSettings">
+    <option name="acceptedTermsVersion" value="3" />
+    <option name="contextSharingMode" value="AlwaysShare" />
+    <option name="onboardedVersion" value="3" />
+    <option name="queryHistory">
+      <list>
+        <historyEntry timestamp="1721056501270">create a fake list of this object 
+data class Email(
+    val id: Long,
+    val sender: Account,
+    val recipients: List&lt;Account&gt; = emptyList(),
+    val subject: String,
+    val body: String,
+    val attachments: List&lt;EmailAttachment&gt; = emptyList(),
+    var isImportant: Boolean = false,
+    var isStarred: Boolean = false,
+    var mailbox: MailboxType = MailboxType.INBOX,
+    val createdAt: String,
+    val threads: List&lt;Email&gt; = emptyList()
+)</historyEntry>
+        <historyEntry timestamp="1720944026203">dependency</historyEntry>
+        <historyEntry timestamp="1720844297272">add documentation</historyEntry>
+        <historyEntry timestamp="1720844181083">add http inceptor for logging
+@Provides
+    fun provideApiService(): ApiService{
+        return Retrofit.Builder()
+            .baseUrl(BASE_URL)
+            .addConverterFactory(GsonConverterFactory.create())
+            .build()
+            .create(ApiService::class.java)
+    }</historyEntry>
+        <historyEntry timestamp="1720165733867">&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
+&lt;androidx.constraintlayout.widget.ConstraintLayout xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;
+    xmlns:app=&quot;http://schemas.android.com/apk/res-auto&quot;
+    xmlns:tools=&quot;http://schemas.android.com/tools&quot;
+    android:orientation=&quot;vertical&quot;
+    android:layout_width=&quot;match_parent&quot;
+    android:layout_height=&quot;match_parent&quot;&gt;
+
+    &lt;ImageView
+        android:id=&quot;@+id/imageView&quot;
+        android:layout_width=&quot;0dp&quot;
+        android:layout_height=&quot;500dp&quot;
+        android:scaleType=&quot;centerCrop&quot;
+        android:src=&quot;@drawable/img1&quot;
+        app:layout_constraintStart_toStartOf=&quot;parent&quot;
+        app:layout_constraintTop_toTopOf=&quot;parent&quot; /&gt;
+&lt;/androidx.constraintlayout.widget.ConstraintLayout&gt;
+
+make its composable</historyEntry>
+      </list>
+    </option>
+  </component>
+</application>

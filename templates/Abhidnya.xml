@@ -1,0 +1,7 @@
+<templateSet group="Abhidnya">
+  <template name="mod" value="modifier = androidx.compose.ui.Modifier" description="Modifier" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

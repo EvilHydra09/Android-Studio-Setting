@@ -1,0 +1,106 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/CleanArchitecture">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Clean Architecture – Utils.kt [Clean_Architecture.app.main]" projectWorkspaceId="2j5SrnEy02Yr82umxYWiqdsoszA">
+              <option name="activationTimestamp" value="1720974846023" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-241.15989.150.2411.11948838" />
+              <option name="buildTimestamp" value="1718045640000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="-9" y="-9" width="1938" height="1048" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1720721668871" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/CleanArchitecturePractice">
+          <value>
+            <RecentProjectMetaInfo frameTitle="CleanArchitecturePractice – libs.versions.toml [CleanArchitecturePractice]" projectWorkspaceId="2jEARwhJBu2kCLNP8nZ3UFpiP6w">
+              <option name="activationTimestamp" value="1721055369451" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-241.15989.150.2411.11948838" />
+              <option name="buildTimestamp" value="1718045640000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="-7" y="-7" width="1938" height="1048" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1721049713924" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Android apps/Compose/Foundation/codelab-android-compose-main/ThemingCodelab">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Reply – LocalEmailsDataProvider.kt [Reply.app.main]" projectWorkspaceId="2iV3PlChECQ7uoWXDeuL85WL8xz">
+              <option name="activationTimestamp" value="1721065479959" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-241.15989.150.2411.11948838" />
+              <option name="buildTimestamp" value="1718045640000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1721061422255" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Android apps/Compose/ContactApp">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ContactApp – OnBoardingScreen.kt [ContactApp.app.main]" projectWorkspaceId="2i0zbbfZlRza4gMJn5PJEsrvxwl">
+              <option name="activationTimestamp" value="1721117570485" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-241.15989.150.2411.11948838" />
+              <option name="buildTimestamp" value="1718045640000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="-8" y="-8" width="1938" height="1048" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1721111019865" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Android apps/Compose/Foundation/codelab-android-compose-main/AnimationCodelab">
+          <value>
+            <RecentProjectMetaInfo frameTitle="AnimationCodelab – Home.kt [AnimationCodelab.start.main]" projectWorkspaceId="2iy1GD9H0GgP5Z1DnJgEtfslieA">
+              <option name="activationTimestamp" value="1721120214206" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-241.15989.150.2411.11948838" />
+              <option name="buildTimestamp" value="1718045640000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1721117587232" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/CountryApp">
+          <value>
+            <RecentProjectMetaInfo frameTitle="CountryApp – HomeScreen.kt [CountryApp.app.main]" opened="true" projectWorkspaceId="2jFIREYCawx7xoAoP55SMrv7ZPr">
+              <option name="activationTimestamp" value="1721121979262" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-241.15989.150.2411.11948838" />
+              <option name="buildTimestamp" value="1718045640000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1721120265749" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/AndroidStudioProjects/CountryApp" />
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+  </component>
+</application>

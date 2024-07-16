@@ -1,0 +1,70 @@
+<application>
+  <component name="VimJumpsSettings">
+    <project id="ContactApp-b9a08d30">
+      <jump line="0" column="0" filename="E:/Android apps/Compose/ContactApp/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="20" column="59" filename="E:/Android apps/Compose/ContactApp/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="18" column="53" filename="E:/Android apps/Compose/ContactApp/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="9" column="40" filename="E:/Android apps/Compose/ContactApp/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="13" column="28" filename="E:/Android apps/Compose/ContactApp/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="15" column="40" filename="E:/Android apps/Compose/ContactApp/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="11" column="33" filename="E:/Android apps/Compose/ContactApp/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="19" column="26" filename="E:/Android apps/Compose/ContactApp/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="17" column="43" filename="E:/Android apps/Compose/ContactApp/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="12" column="49" filename="E:/Android apps/Compose/ContactApp/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="7" column="53" filename="E:/Android apps/Compose/ContactApp/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="23" column="28" filename="E:/Android apps/Compose/ContactApp/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="10" column="53" filename="E:/Android apps/Compose/ContactApp/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="16" column="35" filename="E:/Android apps/Compose/ContactApp/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="27" column="11" filename="E:/Android apps/Compose/ContactApp/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="14" column="17" filename="E:/Android apps/Compose/ContactApp/app/src/main/AndroidManifest.xml" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="E:/Android apps/Compose/ContactApp/app/src/main/AndroidManifest.xml" timestamp="1720164759458">
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXI+Cg==</text>
+      </register>
+      <register name="&quot;" type="CHARACTER_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXI=</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcC5TdGFydGluZy5UaGVtZSI+Cg==</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYWJlbD0iQHN0cmluZy9hcHBfbmFtZSIK</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpleHBvcnRlZD0idHJ1ZSIK</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSIuTWFpbkFjdGl2aXR5Igo=</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkK</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXI=</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-offset encoding="base64" />
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

@@ -1,0 +1,138 @@
+<application>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="WelcomeScreen.Plugins" />
+      <option value="ActivateKeyPromoterXToolWindow" />
+      <option value="ChangeKeymap" />
+    </ids>
+  </component>
+  <component name="FileEditorProviderManager">{
+  &quot;selectedProviders&quot;: {
+    &quot;text-editor,android-manifest&quot;: &quot;text-editor&quot;
+  }
+}</component>
+  <component name="LiveEditConfiguration">
+    <option name="leTriggerMode" value="AUTOMATIC" />
+    <option name="mode" value="LIVE_EDIT" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Segoe UI" />
+    <option name="fontSize" value="12.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "ATTACHED_TOOL_WINDOW.Compose Preview.TOOL_ORDER": "",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Compose Preview.TOOL_ORDER": "",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.DESIGN_FILES_PREVIEW_EDITOR.TOOL_ORDER": "",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.LEFT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.MINIMIZED": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TOOL_ORDER": "TREE,PROPERTIES",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TREE.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TREE.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TREE.MINIMIZED": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TREE.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.MINIMIZED": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.MINIMIZED": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.SPLIT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.SPLIT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.LEFT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.MINIMIZED": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.SPLIT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.LEFT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.SPLIT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER": "PALETTE,PROPERTIES,COMPONENT_TREE",
+    "ATTACHED_TOOL_WINDOW.DESIGN_FILES_PREVIEW_EDITOR.TOOL_ORDER": "",
+    "ATTACHED_TOOL_WINDOW.Layout Inspector.LEFT.UNSCALED.WIDTH": "374",
+    "ATTACHED_TOOL_WINDOW.Layout Inspector.PROPERTIES.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.Layout Inspector.RIGHT.UNSCALED.WIDTH": "225",
+    "ATTACHED_TOOL_WINDOW.Layout Inspector.TOOL_ORDER": "TREE,PROPERTIES",
+    "ATTACHED_TOOL_WINDOW.Layout Inspector.TREE.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.Layout Inspector.TREE.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.FULL.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.FULL.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.FULL.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.SPLIT.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER": "PALETTE,PROPERTIES,COMPONENT_TREE",
+    "InstalledPluginsSearchHistory": "QuickD",
+    "KEYMAP": "create",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "7",
+    "MarketplacePluginsSearchHistory": "jsonto\njsont\njson\nQuick Dev\nQuick De",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "MobileminApi": "29",
+    "RunOnceActivity.cidr.test.framework.showIndexingAsTask": "true",
+    "RunOnceActivity.cidr.test.roots.only": "true",
+    "RunOnceActivity.java.code.vision.default.position.was.set": "true",
+    "SAVED_ANDROID_NPW_ASKED_LANGUAGE": "true",
+    "SAVED_ANDROID_NPW_LANGUAGE": "Kotlin",
+    "SAVED_ANDROID_PACKAGE": "com.example",
+    "SPLIT_EDITOR_MODE_E:/Android apps/Compose/ContactApp/app/src/main/res/layout/test.xml": "SPLIT",
+    "SettingsSearchHistory": "live",
+    "Source Code Editor With PreviewLayout": "Editor only",
+    "TextEditorWithPreview.SplitterProportionKey": "0.6191166",
+    "android.sdk.path": "C:\\Users\\abhid\\AppData\\Local\\Android\\Sdk",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "colorPickerCategoryProperty": "MATERIAL_500",
+    "com.android.tools.idea.layoutinspector.runningdevices.notification.show": "false",
+    "com.android.tools.idea.layoutinspector.runningdevices.ui.uiconfigkey": "HORIZONTAL",
+    "enter_selection_count": "5",
+    "experimental.ui.used.version": "241.15989.150.2411.11948838",
+    "file.gist.reindex.count": "3",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.filter.tip": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1720164528616",
+    "ignore.essential-highlighting.mode": "true",
+    "inspector.open.Declared Attributes": "true",
+    "installed.kotlin.plugin.version": "241.15989.150.2411.11948838-AS",
+    "jsonToKotlin_user_uuid_value_key": "45bb7d90-efd8-45a0-b1f9-eaacb31135a1",
+    "kotlin.lastUpdateCheck": "1721048211443",
+    "kotlin.updates.whats.new.shown.for": "1.9.23",
+    "last_opened_file_path": "C:/Users/abhid/Downloads/undraw_add_notes_re_ln36.svg",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "AI-241.15989.150.2411.11948838"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "E:/Android apps/Compose/ContactApp",
+      "C:/Users/abhid/Downloads/undraw_add_notes_re_ln36.svg",
+      "E:/Android apps/Compose/Foundation/codelab-android-compose-main/AnimationCodelab",
+      "E:/Android apps/Compose/Foundation/codelab-android-compose-main/ThemingCodelab"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.jetbrains.cidr.lang.OCHeaderFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

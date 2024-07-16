@@ -1,0 +1,21 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="C:\Users\abhid\AndroidStudioProjects\CleanArchitecture" value="true" />
+        <entry key="C:\Users\abhid\AndroidStudioProjects\CleanArchitecturePractice" value="true" />
+        <entry key="C:\Users\abhid\AndroidStudioProjects\CountryApp" value="true" />
+        <entry key="E:\Android apps\Compose\ContactApp" value="true" />
+        <entry key="E:\Android apps\Compose\Foundation\codelab-android-compose-main\AnimationCodelab" value="true" />
+        <entry key="E:\Android apps\Compose\Foundation\codelab-android-compose-main\ThemingCodelab" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="E:\Android apps\Compose" />
+      </list>
+    </option>
+  </component>
+</application>
